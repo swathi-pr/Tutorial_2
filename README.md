@@ -1,4 +1,5 @@
 # Tutorial_2 Assignment
+This repository contains the solution for the below mentioned questions:
 1. Write a program to gather data from twitter using a hashtag.
 2. Perform stopword removal, stemming, convertion to term-document matrix and check similarity between tweets using cosine similarity, Jaccard similarity, Dice coefficient
 3. Take a predefined dataset, convert it into dataframes using pandas and perform descriptive analytics
